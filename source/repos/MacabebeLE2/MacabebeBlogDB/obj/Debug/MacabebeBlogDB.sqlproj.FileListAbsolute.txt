@@ -1,0 +1,10 @@
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\bin\Debug\MacabebeBlogDB.dacpac
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\bin\Debug\MacabebeBlogDB.dll
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\bin\Debug\MacabebeBlogDB.pdb
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\MacabebeBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\MacabebeBlogDB.dll
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\MacabebeBlogDB.pdb
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\Model.xml
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\refactor.xml
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\postdeploy.sql
+C:\Users\steve\source\repos\MacabebeLE2\MacabebeBlogDB\obj\Debug\predeploy.sql
